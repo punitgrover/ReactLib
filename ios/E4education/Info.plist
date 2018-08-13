@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>E4education</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Allows access to your calendar for sync event into your calender.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Allow access to finde shcool near you.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allow access to finde shcool near you.</string>
+	<key>Privacy - Calendars Usage Description   </key>
+	<string>Allows access to your calendar for sync event into your calender.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>fontello.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Mark Simonson - Proxima Nova A Bold.otf</string>
+		<string>Mark Simonson - Proxima Nova A Extrabold.otf</string>
+		<string>Mark Simonson - Proxima Nova A Light.otf</string>
+		<string>Mark Simonson - Proxima Nova A Medium.otf</string>
+		<string>Mark Simonson - Proxima Nova A Semibold.otf</string>
+		<string>Mark Simonson - Proxima Nova A Thin.otf</string>
+		<string>Mark Simonson - Proxima Nova A.otf</string>
+		<string>Mark Simonson - Proxima Nova Black.otf</string>
+		<string>Mark Simonson - Proxima Nova Bold.otf</string>
+		<string>Mark Simonson - Proxima Nova Extrabold.otf</string>
+		<string>Mark Simonson - Proxima Nova Light.otf</string>
+		<string>Mark Simonson - Proxima Nova Medium.otf</string>
+		<string>Mark Simonson - Proxima Nova S Black.otf</string>
+		<string>Mark Simonson - Proxima Nova S Bold.otf</string>
+		<string>Mark Simonson - Proxima Nova S Extrabold.otf</string>
+		<string>Mark Simonson - Proxima Nova S Light.otf</string>
+		<string>Mark Simonson - Proxima Nova S Medium.otf</string>
+		<string>Mark Simonson - Proxima Nova S Semibold.otf</string>
+		<string>Mark Simonson - Proxima Nova S Thin.otf</string>
+		<string>Mark Simonson - Proxima Nova S.otf</string>
+		<string>Mark Simonson - Proxima Nova Semibold.otf</string>
+		<string>Mark Simonson - Proxima Nova Thin.otf</string>
+		<string>Mark Simonson - Proxima Nova.otf</string>
+		<string>SupermercadoOne-Regular.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
